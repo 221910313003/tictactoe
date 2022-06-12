@@ -1,4 +1,4 @@
-15477
+15479
 80D:\Aniketh\projects\tictactoe\node_modules\core-js-pure\stable\regexp\dot-all.js132992372125887344 0
 64D:\Aniketh\projects\tictactoe\node_modules\@parcel\hash\index.js132992394332457016 0
 144D:\Aniketh\projects\tictactoe\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up\foo\real-bar.js132992394750218496 0
@@ -7,13 +7,13 @@
 67D:\Aniketh\projects\tictactoe\node_modules\terser\node_modules\.bin132992395583280179 1
 39D:\Aniketh\projects\tictactoe\.eslintrc132992377049846940 0
 66D:\Aniketh\projects\tictactoe\node_modules\source-map\package.json132992394222396129 0
-60D:\Aniketh\projects\tictactoe\node_modules\@msgpackr-extract132992724798326772 1
+60D:\Aniketh\projects\tictactoe\node_modules\@msgpackr-extract132994052276288611 1
 42D:\Aniketh\projects\tictactoe\package.json132992724810977203 0
 49D:\Aniketh\projects\tictactoe\node_modules\@lezer132992394171062357 1
 55D:\Aniketh\projects\tictactoe\node_modules\prettier\esm132992372021242850 1
 82D:\Aniketh\projects\tictactoe\node_modules\table\dist\src\calculateCellHeight.d.ts132992394770552495 0
 78D:\Aniketh\projects\tictactoe\node_modules\htmlparser2\lib\WritableStream.d.ts132992394461217896 0
-34D:\Aniketh\projects\tictactoe\dist132992760719666361 1
+34D:\Aniketh\projects\tictactoe\dist132994941190878291 1
 90D:\Aniketh\projects\tictactoe\node_modules\eslint\node_modules\semver\functions\compare.js132992394433407740 0
 85D:\Aniketh\projects\tictactoe\node_modules\@parcel\core\src\serializerCore.browser.js132992394925288696 0
 58D:\Aniketh\projects\tictactoe\node_modules\chalk\readme.md132992357612669344 0
@@ -41,12 +41,12 @@
 83D:\Aniketh\projects\tictactoe\node_modules\core-js-pure\full\async-iterator\find.js132992372484365598 0
 56D:\Aniketh\projects\tictactoe\node_modules\get-intrinsic132992371362471794 1
 92D:\Aniketh\projects\tictactoe\node_modules\table\dist\src\calculateOutputColumnWidths.js.map132992394655774331 0
-40D:\Aniketh\projects\tictactoe\index.html132791533440000000 0
+40D:\Aniketh\projects\tictactoe\index.html132994053685800657 0
 75D:\Aniketh\projects\tictactoe\node_modules\css-tree\lib\syntax\node\Rule.js132992394871266496 0
 80D:\Aniketh\projects\tictactoe\node_modules\core-js-pure\modules\es.array.flat.js132992372187509896 0
 73D:\Aniketh\projects\tictactoe\node_modules\yaml\dist\Document-9b4560a1.js132992394320754966 0
 82D:\Aniketh\projects\tictactoe\node_modules\@babel\helper-plugin-utils\lib\index.js132992357606254599 0
-47D:\Aniketh\projects\tictactoe\package-lock.json132992724810778424 0
+47D:\Aniketh\projects\tictactoe\package-lock.json132994052281088427 0
 89D:\Aniketh\projects\tictactoe\node_modules\@babel\plugin-transform-runtime\lib\helpers.js132992357619944951 0
 80D:\Aniketh\projects\tictactoe\node_modules\terser\node_modules\acorn\dist\bin.js132992394342800268 0
 80D:\Aniketh\projects\tictactoe\node_modules\caniuse-lite\data\features\rellist.js132992357738977079 0
@@ -56,7 +56,7 @@
 94D:\Aniketh\projects\tictactoe\node_modules\core-js-compat\node_modules\semver\functions\gte.js132992357635094745 0
 76D:\Aniketh\projects\tictactoe\node_modules\es-abstract\2022\Number\divide.js132992372040754032 0
 97D:\Aniketh\projects\tictactoe\node_modules\@babel\runtime-corejs3\core-js-stable\instance\find.js132992371435622120 0
-42D:\Aniketh\projects\tictactoe\node_modules132992724798178619 1
+42D:\Aniketh\projects\tictactoe\node_modules132994052276208597 1
 78D:\Aniketh\projects\tictactoe\node_modules\htmlnano\lib\modules\mergeStyles.js132992394448536205 0
 80D:\Aniketh\projects\tictactoe\node_modules\prop-types\factoryWithTypeCheckers.js132992371299470530 0
 78D:\Aniketh\projects\tictactoe\node_modules\resolve\test\precedence\bbb\main.js132992357674449263 0
@@ -93,7 +93,7 @@
 76D:\Aniketh\projects\tictactoe\node_modules\weak-lru-cache\tests\benchmark.js132992394240442411 0
 33D:\Aniketh\projects\tictactoe\src132992719629767877 1
 92D:\Aniketh\projects\tictactoe\node_modules\json-stable-stringify-without-jsonify\test\str.js132992371442074079 0
-41D:\Aniketh\projects\tictactoe\src\App.jsx132992725355446865 0
+41D:\Aniketh\projects\tictactoe\src\App.jsx132994063493050356 0
 63D:\Aniketh\projects\tictactoe\node_modules\type-check\README.md132992371312110844 0
 91D:\Aniketh\projects\tictactoe\node_modules\table\node_modules\ajv\dist\runtime\quote.js.map132992395059036575 0
 107D:\Aniketh\projects\tictactoe\node_modules\eslint-plugin-react\node_modules\resolve\test\resolver\null_main132992371767119558 1
@@ -124,7 +124,7 @@
 84D:\Aniketh\projects\tictactoe\node_modules\@babel\runtime-corejs3\helpers\esm\tdz.js132992372135078176 0
 72D:\Aniketh\projects\tictactoe\node_modules\tsconfig-paths\src\options.ts132992371573790384 0
 76D:\Aniketh\projects\tictactoe\node_modules\domelementtype\lib\esm\index.d.ts132992394399107491 0
-43D:\Aniketh\projects\tictactoe\src\index.jsx132791533440000000 0
+43D:\Aniketh\projects\tictactoe\src\index.jsx132994040389598350 0
 71D:\Aniketh\projects\tictactoe\node_modules\shebang-command\package.json132992371237286623 0
 52D:\Aniketh\projects\tictactoe\node_modules\.bin\svgo132992395583557574 0
 94D:\Aniketh\projects\tictactoe\node_modules\caniuse-lite\data\features\getboundingclientrect.js132992357721443819 0
@@ -140,7 +140,7 @@
 93D:\Aniketh\projects\tictactoe\node_modules\@babel\helper-define-polyfill-provider\lib\browser132992357627404327 1
 74D:\Aniketh\projects\tictactoe\node_modules\posthtml-render\dist\index.d.ts132992394362290694 0
 79D:\Aniketh\projects\tictactoe\node_modules\core-js-pure\modules\es.math.cbrt.js132992372216510580 0
-53D:\Aniketh\projects\tictactoe\src\components\Board.js132992760709327014 0
+53D:\Aniketh\projects\tictactoe\src\components\Board.js132994941138447789 0
 88D:\Aniketh\projects\tictactoe\node_modules\core-js-pure\full\array\virtual\to-spliced.js132992373400998688 0
 81D:\Aniketh\projects\tictactoe\node_modules\eslint\node_modules\chalk\package.json132992371296794166 0
 79D:\Aniketh\projects\tictactoe\node_modules\cosmiconfig\dist\ExplorerBase.js.map132992394466460253 0
@@ -218,7 +218,7 @@
 56D:\Aniketh\projects\tictactoe\node_modules\lmdb\level.js132992394894927816 0
 115D:\Aniketh\projects\tictactoe\node_modules\table\node_modules\ajv\dist\vocabularies\applicator\propertyNames.js.map132992395057650682 0
 99D:\Aniketh\projects\tictactoe\node_modules\@parcel\package-manager\node_modules\semver\CHANGELOG.md132992394416366952 0
-61D:\Aniketh\projects\tictactoe\node_modules\.package-lock.json132992724818529992 0
+61D:\Aniketh\projects\tictactoe\node_modules\.package-lock.json132994052283728297 0
 73D:\Aniketh\projects\tictactoe\node_modules\@parcel\core\lib\AssetGraph.js132992394508020322 0
 130D:\Aniketh\projects\tictactoe\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down132992394882905951 1
 51D:\Aniketh\projects\tictactoe\node_modules\css-tree132992394930405191 1
@@ -301,7 +301,7 @@
 71D:\Aniketh\projects\tictactoe\node_modules\htmlparser2\lib\Tokenizer.js132992394308635483 0
 49D:\Aniketh\projects\tictactoe\node_modules\stable132992394289227623 1
 81D:\Aniketh\projects\tictactoe\node_modules\@parcel\runtime-service-worker\LICENSE132992394273741976 0
-50D:\Aniketh\projects\tictactoe\node_modules\@parcel132992724798275582 1
+50D:\Aniketh\projects\tictactoe\node_modules\@parcel132994052276288611 1
 93D:\Aniketh\projects\tictactoe\node_modules\eslint-plugin-jsx-a11y\docs\rules\no-access-key.md132992371949666487 0
 106D:\Aniketh\projects\tictactoe\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\bar.js132992394390516928 0
 60D:\Aniketh\projects\tictactoe\node_modules\yaml\browser\dist132992394683698870 1
@@ -4013,7 +4013,6 @@
 64D:\Aniketh\projects\tictactoe\node_modules\object.values\shim.js132992371396727073 0
 74D:\Aniketh\projects\tictactoe\node_modules\caniuse-lite\data\regions\SC.js132992357739976771 0
 62D:\Aniketh\projects\tictactoe\node_modules\htmlparser2\LICENSE132992394214171240 0
-53D:\Aniketh\projects\tictactoe\dist\index.ccb29f90.css132992716507792621 0
 57D:\Aniketh\projects\tictactoe\node_modules\dotenv\LICENSE132992394302578249 0
 87D:\Aniketh\projects\tictactoe\node_modules\core-js-pure\actual\array\virtual\reverse.js132992373230126391 0
 86D:\Aniketh\projects\tictactoe\node_modules\table\node_modules\ajv\dist\compile\codegen132992395353423583 1
@@ -4896,6 +4895,7 @@
 93D:\Aniketh\projects\tictactoe\node_modules\core-js-pure\modules\es.object.get-prototype-of.js132992372232648117 0
 87D:\Aniketh\projects\tictactoe\node_modules\resolve\test\resolver\malformed_package_json132992357689524556 1
 88D:\Aniketh\projects\tictactoe\node_modules\core-js-pure\stable\instance\code-point-at.js132992371987898113 0
+52D:\Aniketh\projects\tictactoe\dist\index.bd0b3cf0.js132994054187675294 0
 93D:\Aniketh\projects\tictactoe\node_modules\caniuse-lite\data\features\document-execcommand.js132992357716220575 0
 68D:\Aniketh\projects\tictactoe\node_modules\is-arrayish\.editorconfig132992394349549256 0
 79D:\Aniketh\projects\tictactoe\node_modules\@parcel\transformer-svg\package.json132992394424833775 0
@@ -10176,6 +10176,7 @@
 65D:\Aniketh\projects\tictactoe\node_modules\entities\lib\decode.js132992394333238263 0
 81D:\Aniketh\projects\tictactoe\node_modules\entities\lib\decode_codepoint.d.ts.map132992394438874300 0
 70D:\Aniketh\projects\tictactoe\node_modules\entities\lib\encode-trie.js132992394355084224 0
+57D:\Aniketh\projects\tictactoe\dist\index.aacf8555.css.map132994054193435063 0
 67D:\Aniketh\projects\tictactoe\node_modules\entities\lib\encode.d.ts132992394509950363 0
 65D:\Aniketh\projects\tictactoe\node_modules\entities\lib\generated132992394494302073 1
 64D:\Aniketh\projects\tictactoe\node_modules\entities\lib\index.js132992394387802078 0
@@ -12684,7 +12685,7 @@
 91D:\Aniketh\projects\tictactoe\node_modules\aria-query\lib\etc\roles\literal\comboboxRole.js132992371450960094 0
 79D:\Aniketh\projects\tictactoe\node_modules\core-js-pure\actual\string\anchor.js132992371571674686 0
 78D:\Aniketh\projects\tictactoe\node_modules\core-js-pure\actual\string\blink.js132992371938179231 0
-52D:\Aniketh\projects\tictactoe\dist\index.b4b6dfad.js132992760719346416 0
+52D:\Aniketh\projects\tictactoe\dist\index.b4b6dfad.js132994941190406257 0
 86D:\Aniketh\projects\tictactoe\node_modules\core-js-pure\actual\string\code-point-at.js132992371982469124 0
 94D:\Aniketh\projects\tictactoe\node_modules\@babel\runtime-corejs3\helpers\arrayWithoutHoles.js132992372041314004 0
 78D:\Aniketh\projects\tictactoe\node_modules\core-js-pure\actual\string\fixed.js132992372488644962 0
@@ -15471,8 +15472,9 @@
 58D:\Aniketh\projects\tictactoe\node_modules\.bin\semver.ps1132992357757146920 0
 56D:\Aniketh\projects\tictactoe\node_modules\.bin\svgo.cmd132992395583557574 0
 56D:\Aniketh\projects\tictactoe\node_modules\.bin\svgo.ps1132992395583537171 0
-53D:\Aniketh\projects\tictactoe\dist\index.ab15d688.css132992754965300100 0
-57D:\Aniketh\projects\tictactoe\dist\index.ab15d688.css.map132992754966727472 0
-56D:\Aniketh\projects\tictactoe\dist\index.b4b6dfad.js.map132992760719586354 0
-57D:\Aniketh\projects\tictactoe\dist\index.ccb29f90.css.map132992716507792621 0
-45D:\Aniketh\projects\tictactoe\dist\index.html132992754965460073 0
+53D:\Aniketh\projects\tictactoe\dist\index.aacf8555.css132994054187195241 0
+53D:\Aniketh\projects\tictactoe\dist\index.ab15d688.css132994055647459419 0
+57D:\Aniketh\projects\tictactoe\dist\index.ab15d688.css.map132994055648183061 0
+56D:\Aniketh\projects\tictactoe\dist\index.b4b6dfad.js.map132994941190833193 0
+56D:\Aniketh\projects\tictactoe\dist\index.bd0b3cf0.js.map132994054193514989 0
+45D:\Aniketh\projects\tictactoe\dist\index.html132994055647459419 0
